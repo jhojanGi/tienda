@@ -1,2 +1,2 @@
-# tienda.
+# tienda
 Shoes store repositorio
